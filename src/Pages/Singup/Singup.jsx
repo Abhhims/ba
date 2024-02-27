@@ -6,6 +6,7 @@ const Singup = () => {
     <div><h1>Singup</h1><br />
 <button>
 <Link to={"/"}>to singin</Link></button>
+svdvdf
     </div>
   )
 }
